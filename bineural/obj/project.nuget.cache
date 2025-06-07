@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "9T4q4eHrgb0f1b5c8YsdOjzJ3XKDNsajuKnQjWuDddY0iKcWhLOD7BdQFbv1ClfjSeSBb49rUK9Uy7NyoBLlEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\José Antonio\\source\\repos\\bineural\\bineural\\bineural.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\José Antonio\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\naudio\\2.2.0\\naudio.2.2.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\naudio.asio\\2.2.0\\naudio.asio.2.2.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\naudio.core\\2.2.0\\naudio.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\naudio.midi\\2.2.0\\naudio.midi.2.2.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\naudio.wasapi\\22.0.0\\naudio.wasapi.22.0.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\naudio.winmm\\2.2.0\\naudio.winmm.2.2.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\José Antonio\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
